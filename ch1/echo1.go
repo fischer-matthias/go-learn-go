@@ -1,4 +1,4 @@
-// prints the given arguments in console
+// echo1 - prints the given arguments in console
 package main
 
 import (
